@@ -1,0 +1,6 @@
+streamlit
+langchain
+pandas
+sqlalchemy
+sqlite3
+langchain-groq
