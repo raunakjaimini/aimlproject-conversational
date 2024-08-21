@@ -4,3 +4,6 @@ pandas
 sqlalchemy
 sqlite3
 langchain-groq
+python-dotenv   
+langchain_groq   
+langchain-community     
